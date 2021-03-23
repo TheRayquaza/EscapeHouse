@@ -1,0 +1,1644 @@
+﻿Log file open, 03/23/21 09:58:13
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: EscapeHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.248346
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:490][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.23-08.58.13:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.23-08.58.13:511][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.23-08.58.13:511][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.23-08.58.13:511][  0]LogHAL: Display: Platform has ~ 16 GB [17107222528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.23-08.58.13:511][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.23-08.58.13:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.23-08.58.13:512][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.23-08.58.13:513][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.23-08.58.13:513][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.23-08.58.13:513][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.23-08.58.13:513][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.23-08.58.13:513][  0]LogInit: Computer: DESKTOP-KVHGEC4
+[2021.03.23-08.58.13:513][  0]LogInit: User: mateo
+[2021.03.23-08.58.13:513][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.23-08.58.13:513][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.23-08.58.13:513][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.23-08.58.13:513][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.23-08.58.13:513][  0]LogMemory: Process Physical Memory: 137.10 MB used, 137.11 MB peak
+[2021.03.23-08.58.13:513][  0]LogMemory: Process Virtual Memory: 118.46 MB used, 118.46 MB peak
+[2021.03.23-08.58.13:513][  0]LogMemory: Physical Memory: 5016.75 MB used,  11297.97 MB free, 16314.72 MB total
+[2021.03.23-08.58.13:513][  0]LogMemory: Virtual Memory: 134204272.00 MB used,  13459.76 MB free, 134217728.00 MB total
+[2021.03.23-08.58.13:517][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.23-08.58.13:536][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.23-08.58.13:536][  0]LogInit: Using OS detected language (fr-FR).
+[2021.03.23-08.58.13:536][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.03.23-08.58.13:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.03.23-08.58.13:540][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.23-08.58.13:549][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.23-08.58.13:590][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.23-08.58.13:590][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.23-08.58.13:791][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.23-08.58.13:791][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.23-08.58.13:791][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.23-08.58.13:791][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.23-08.58.13:891][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2021.03.23-08.58.13:891][  0]LogD3D11RHI:       5991/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.23-08.58.13:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.23-08.58.13:893][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.23-08.58.13:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.23-08.58.13:898][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.23-08.58.13:898][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.23-08.58.13:898][  0]LogWindows: EnumDisplayDevices:
+[2021.03.23-08.58.13:898][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1)
+[2021.03.23-08.58.13:898][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:1)
+[2021.03.23-08.58.13:899][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.03.23-08.58.13:899][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.03.23-08.58.13:899][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.23-08.58.13:899][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2021.03.23-08.58.13:899][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.03.23-08.58.13:899][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.03.23-08.58.13:899][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.03.23-08.58.13:977][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.23-08.58.13:977][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.23-08.58.13:977][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.23-08.58.14:009][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.23-08.58.14:010][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.23-08.58.14:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.23-08.58.14:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.23-08.58.14:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.23-08.58.14:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.23-08.58.14:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.23-08.58.14:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.23-08.58.14:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.23-08.58.14:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.23-08.58.14:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.23-08.58.14:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.23-08.58.14:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.23-08.58.14:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.23-08.58.14:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.23-08.58.14:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.23-08.58.14:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.23-08.58.14:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.23-08.58.14:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.23-08.58.14:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.23-08.58.14:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.23-08.58.14:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.23-08.58.14:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.23-08.58.14:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.23-08.58.14:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.23-08.58.14:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.23-08.58.14:482][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.23-08.58.14:540][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.23-08.58.14:540][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Intermediate/Shaders/WorkingDirectory/13712/).
+[2021.03.23-08.58.14:540][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mateo/AppData/Local/Temp/UnrealShaderWorkingDir/0B801B2344347E68A077C2BB035D85B1/'.
+[2021.03.23-08.58.14:540][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.23-08.58.14:540][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.23-08.58.15:286][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/mateo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mateo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.23-08.58.15:351][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.23-08.58.15:363][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.23-08.58.15:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.23-08.58.15:363][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.23-08.58.15:423][  0]LogDerivedDataCache: Speed tests for C:/Users/mateo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.03.23-08.58.15:423][  0]LogDerivedDataCache: Display: Performance to C:/Users/mateo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1131.97MBs, RandomWriteSpeed=15.98MBs. Assigned SpeedClass 'Local'
+[2021.03.23-08.58.15:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mateo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.23-08.58.15:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.23-08.58.15:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.23-08.58.15:484][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.23-08.58.15:485][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.23-08.58.15:508][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.03.23-08.58.15:785][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.23-08.58.15:785][  0]LogInit: Active device profile: [000001C479DF3200][000001C47AC9F680 49] Windows
+[2021.03.23-08.58.15:785][  0]LogInit: Profiles: [000001C479DF3200][000001C47AC9F680 49] Windows, [000001C479E01000][000001C47AC9B7C0 49] WindowsNoEditor, [000001C479DF1000][000001C47ACA3900 49] WindowsServer, [000001C479E02A00][000001C47ACABA80 49] WindowsClient, [000001C479DF2900][000001C47ACAFC00 49] IOS, [000001C479E01900][000001C47ACB20C0 49] iPadAir, [000001C479DF1800][000001C47ACB6240 49] iPadAir2, [000001C479DB8500][000001C47ACBE500 49] IPadPro, [000001C479DB8600][000001C47ACBA540 49] iPadAir3, [000001C479DF3400][000001C47ACC26C0 49] iPadAir4, [000001C479DBAF00][000001C47ACC6840 49] iPadMini2, [000001C479DF0E00][000001C47ACCA9C0 49] iPadMini3, [000001C479DBA000][000001C47ACCEB40 49] iPadMini4, [000001C479DF2D00][000001C47ACD2CC0 49] iPadMini5, [000001C479D8FD00][000001C47ACDAF80 49] iPhone6, [000001C479D8FE00][000001C47ACD6FC0 49] iPodTouch6, [000001C479DBA900][000001C47ACE3280 49] iPhone7, [000001C479DBA800][000001C47ACDF2C0 49] iPodTouch7, [000001C479D8D400][000001C47ACE7440 49] iPhone5S, [000001C479DB8A00][000001C47ACEB5C0 49] iPhone6Plus, [000001C479D8E500][000001C47ACA7700 49] iPhone6S, [000001C479DBB200][000001C47ACEF840 49] iPhone6SPlus, [000001C479D8DC00][000001C47ACF3980 49] iPhone7Plus, [000001C479DBB100][000001C47ACF7AC0 49] iPhoneSE, [000001C479D8E700][000001C47ACFFC40 49] iPhone8, [000001C479DBAE00][000001C47AD02100 49] iPhone8Plus, [000001C479D8D800][000001C47AD06280 49] iPhoneX, [000001C479DB8900][000001C47AD0A400 49] iPhoneXS, [000001C479D8F600][000001C47AD0E580 49] iPhoneXSMax, [000001C479DB8F00][000001C47AD12700 49] iPhoneXR, [000001C479D8ED00][000001C47AD16880 49] iPhone11, [000001C479DBA400][000001C47AD1AA00 49] iPhone11Pro, [000001C479D8DB00][000001C47AD1EB80 49] iPhone11ProMax, [000001C479DBBA00][000001C47AD22D00 49] iPhoneSE2, [000001C479D8C300][000001C47AD26E80 49] iPhone12Mini, [000001C479DB9D00][000001C47AD2B000 49] iPhone12, [000001C479D8D900][000001C47B561180 49] iPhone12Pro, [000001C479DB8100][000001C47B565300 49] iPhone12ProMax, [000001C479D8E200][000001C47B569480 49] iPadPro105, [000001C479DB9700][000001C47B56D600 49] iPadPro129, [000001C479D8CC00][000001C47ACFB740 49] iPadPro97, [000001C479DB9400][000001C47B5A9880 49] iPadPro2_129, [000001C479D8F800][000001C47B5AD9C0 49] iPad5, [000001C479DB8700][000001C47B5B1B00 49] iPad6, [000001C479D8C400][000001C47B5B9C80 49] iPad7, [000001C479DB9000][000001C47B5F4140 49] iPad8, [000001C479D8F200][000001C47B6002C0 49] iPadPro11, [000001C479DBBF00][000001C47B604440 49] iPadPro2_11, [000001C479D8EB00][000001C47B6085C0 49] iPadPro3_129, [000001C479DB9300][000001C47B60C740 49] iPadPro4_129, [000001C479D8E000][000001C47B6208C0 49] AppleTV, [000001C479DB9E00][000001C47B644A40 49] AppleTV4K, [000001C479D8EE00][000001C47B64CBC0 49] TVOS, [000001C479DBB900][000001C47B650D40 49] Mac, [000001C479D8FB00][000001C47B654EC0 49] MacClient, [000001C479DBB300][000001C47B685040 49] MacNoEditor, [000001C479D8F100][000001C47B6891C0 49] MacServer, [000001C479DB9200][000001C47B68D340 49] Linux, [000001C479D8C700][000001C47B6914C0 49] LinuxNoEditor, [000001C479E03A00][000001C47B695640 49] LinuxAArch64NoEditor, [000001C479E94A00][000001C47B6A57C0 49] LinuxClient, [000001C479E00800][000001C47B5B5900 49] LinuxAArch64Client, [000001C479E95000][000001C47B6B5A40 49] LinuxServer, [000001C479E02700][000001C47B6C5B80 49] LinuxAArch64Server, [000001C479E94E00][000001C47B6E9D00 49] Android, [000001C479E00300][000001C47B6EC1C0 49] Android_Low, [000001C479E94600][000001C47B6F0340 49] Android_Mid, [000001C479E01300][000001C47B6F44C0 49] Android_High, [000001C479E95600][000001C47B6F8640 49] Android_Default, [000001C479E01A00][000001C47B6FC7C0 49] Android_Adreno4xx, [000001C479E94200][000001C47B700940 49] Android_Adreno5xx_Low, [000001C479E00700][000001C47B704AC0 49] Android_Adreno5xx, [000001C479E95500][000001C47B708C40 49] Android_Adreno6xx, [000001C479E02500][000001C47B70CDC0 49] Android_Adreno6xx_Vulkan, [000001C479E94D00][000001C47B710F40 49] Android_Mali_T6xx, [000001C479D8DE00][000001C47B7150C0 49] Android_Mali_T7xx, [000001C479DB9800][000001C47B719240 49] Android_Mali_T8xx, [000001C479D8E600][000001C47B71D3C0 49] Android_Mali_G71, [000001C479DBAB00][000001C47B721540 49] Android_Mali_G72, [000001C479D8D300][000001C47B7256C0 49] Android_Mali_G72_Vulkan, [000001C479DBBD00][000001C47B73D840 49] Android_Mali_G76, [000001C479D8CB00][000001C47B6E5980 49] Android_Mali_G76_Vulkan, [000001C479DBBC00][000001C47B75BAC0 49] Android_Mali_G77, [000001C479D8D000][000001C47B7A7C00 49] Android_Mali_G77_Vulkan, [000001C479DBA500][000001C47B82A0C0 49] Android_Vulkan_SM5, [000001C479D8E100][000001C47B83E240 49] Android_PowerVR_G6xxx, [000001C479DBAA00][000001C47B8723C0 49] Android_PowerVR_GT7xxx, [000001C479D8F300][000001C47B876540 49] Android_PowerVR_GE8xxx, [000001C479DBB000][000001C47B87A6C0 49] Android_PowerVR_GM9xxx, [000001C479D8D200][000001C47B87E840 49] Android_PowerVR_GM9xxx_Vulkan, [000001C479DBAD00][000001C47B8829C0 49] Android_TegraK1, [000001C479D8F000][000001C47B892B40 49] Android_Unknown_Vulkan, [000001C479DB9600][000001C47B896CC0 49] Lumin, [000001C479D8CD00][000001C47B89EE40 49] Lumin_Desktop, [000001C479DB8300][000001C47B8A6FC0 49] HoloLens, 
+[2021.03.23-08.58.15:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.23-08.58.15:832][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.23-08.58.15:832][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.23-08.58.15:832][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.23-08.58.15:832][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.23-08.58.15:918][  0]LogNetVersion: EscapeHouse 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3331307039)
+[2021.03.23-08.58.16:334][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.23-08.58.16:403][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.068172 seconds
+[2021.03.23-08.58.16:407][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.23-08.58.16:407][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.23-08.58.16:407][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.23-08.58.16:753][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.23-08.58.16:758][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.23-08.58.16:812][  0]LogLinker: Warning: Failed to load '/Game/BaseFiles/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.23-08.58.16:812][  0]LogLinker: Warning: Failed to load '/Game/BaseFiles/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.23-08.58.16:813][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BaseFiles/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.03.23-08.58.16:832][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.16:832][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.16:835][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.16:840][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.16:842][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.16:849][  0]LogUProjectInfo: Found projects:
+[2021.03.23-08.58.17:049][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.23-08.58.17:071][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.23-08.58.17:071][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.23-08.58.17:119][  0]LogCollectionManager: Loaded 0 collections in 0.000658 seconds
+[2021.03.23-08.58.17:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Collections/' took 0.00s
+[2021.03.23-08.58.17:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Developers/mateo/Collections/' took 0.00s
+[2021.03.23-08.58.17:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Collections/' took 0.00s
+[2021.03.23-08.58.17:142][  0]LogOcInput: OculusInput pre-init called
+[2021.03.23-08.58.17:151][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.23-08.58.17:151][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.23-08.58.17:221][  0]LogEngine: Initializing Engine...
+[2021.03.23-08.58.17:221][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.23-08.58.17:222][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.23-08.58.17:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.23-08.58.17:324][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.23-08.58.17:330][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.23-08.58.17:348][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.23-08.58.17:350][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.23-08.58.17:350][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.23-08.58.17:350][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.23-08.58.17:350][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.23-08.58.17:351][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.23-08.58.17:351][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.23-08.58.17:358][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.23-08.58.17:358][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.23-08.58.17:402][  0]LogAudioMixer: Display: Using Audio Device VX2458 Series (NVIDIA High Definition Audio)
+[2021.03.23-08.58.17:403][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.23-08.58.17:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.23-08.58.17:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.23-08.58.17:406][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.23-08.58.17:406][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.23-08.58.17:406][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.23-08.58.17:407][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.23-08.58.17:407][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.23-08.58.17:407][  0]LogInit: FAudioDevice initialized.
+[2021.03.23-08.58.17:407][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.23-08.58.17:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.23-08.58.17:478][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/mateo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.23-08.58.17:485][  0]LogInit: Texture streaming: Enabled
+[2021.03.23-08.58.17:497][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.23-08.58.17:501][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.23-08.58.17:501][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.23-08.58.17:502][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.23-08.58.17:541][  0]LogInit: Transaction tracking system initialized
+[2021.03.23-08.58.17:560][  0]BlueprintLog: New page: Editor Load
+[2021.03.23-08.58.17:617][  0]LocalizationService: Localization service is disabled
+[2021.03.23-08.58.17:637][  0]TimingProfiler: Initialize
+[2021.03.23-08.58.17:637][  0]TimingProfiler: OnSessionChanged
+[2021.03.23-08.58.17:637][  0]LoadingProfiler: Initialize
+[2021.03.23-08.58.17:637][  0]LoadingProfiler: OnSessionChanged
+[2021.03.23-08.58.17:637][  0]NetworkingProfiler: Initialize
+[2021.03.23-08.58.17:637][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.23-08.58.17:637][  0]MemoryProfiler: Initialize
+[2021.03.23-08.58.17:637][  0]MemoryProfiler: OnSessionChanged
+[2021.03.23-08.58.17:767][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.23-08.58.17:767][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.23-08.58.17:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/' took 0.01s
+[2021.03.23-08.58.18:092][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.23-08.58.18:096][  0]SourceControl: Source control is disabled
+[2021.03.23-08.58.18:096][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.685
+[2021.03.23-08.58.18:096][  0]Cmd: MAP LOAD FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Map/Maps/EscapeHouse.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.23-08.58.18:096][  0]LightingResults: New page: Lighting Build
+[2021.03.23-08.58.18:096][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-08.58.18:096][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-08.58.18:096][  0]MapCheck: New page: Map Check
+[2021.03.23-08.58.18:096][  0]LightingResults: New page: Lighting Build
+[2021.03.23-08.58.18:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.23-08.58.18:927][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-08.58.18:927][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:927][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-08.58.18:927][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:928][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-08.58.18:928][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:928][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-08.58.18:928][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:928][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-08.58.18:928][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:928][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-08.58.18:928][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:929][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-08.58.18:929][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:929][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-08.58.18:929][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:929][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-08.58.18:929][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:929][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-08.58.18:929][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:929][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-08.58.18:929][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:930][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-08.58.18:930][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:930][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-08.58.18:930][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:930][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-08.58.18:930][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:930][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-08.58.18:930][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:931][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-08.58.18:931][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:931][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-08.58.18:931][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:931][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-08.58.18:931][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:931][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-08.58.18:931][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:932][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-08.58.18:932][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:933][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-08.58.18:933][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.18:933][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-08.58.18:933][  0]LoadErrors: Failed to load /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh Referenced by CharacterMesh0
+[2021.03.23-08.58.19:040][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Character\Blueprints\FPSCharacter_BP.uasset: [Compiler] InputAction Event references unknown Action 'Slot3' for  InputAction Slot3
+[2021.03.23-08.58.19:040][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Character\Blueprints\FPSCharacter_BP.uasset: [Compiler] InputAction Event references unknown Action 'Slot2' for  InputAction Slot2
+[2021.03.23-08.58.19:041][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Character\Blueprints\FPSCharacter_BP.uasset: [Compiler] InputAction Event references unknown Action 'Slot3' for  InputAction Slot3
+[2021.03.23-08.58.19:041][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Character\Blueprints\FPSCharacter_BP.uasset: [Compiler] InputAction Event references unknown Action 'Slot2' for  InputAction Slot2
+[2021.03.23-08.58.19:055][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Inventory\HUD\InventorySlot_WP.uasset: [Compiler] Input pin  Drag Slot  specifying non-default value no longer exists on node  Create Drag & Drop Operation . Please refresh node or reset pin to default value to remove pin.
+[2021.03.23-08.58.19:362][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-08.58.19:362][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body.M_Male_Body Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:362][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-08.58.19:362][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N.T_UE4Logo_N Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:363][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-08.58.19:363][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:363][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-08.58.19:363][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:363][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-08.58.19:363][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:363][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-08.58.19:363][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:363][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-08.58.19:364][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:364][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-08.58.19:364][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:364][  0]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-08.58.19:364][  0]LoadErrors: Failed to load /Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by M_UE4Man_ChestLogo
+[2021.03.23-08.58.19:902][  0]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.03.23-08.58.19:906][  0]LogMaterial: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Missing Material Function
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.23-08.58.19:906][  0]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.23-08.58.20:010][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'EscapeHouse'.
+[2021.03.23-08.58.20:010][  0]LogAIModule: Creating AISystem for world EscapeHouse
+[2021.03.23-08.58.20:029][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.23-08.58.20:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.23-08.58.20:041][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.23-08.58.20:041][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2021.03.23-08.58.20:041][  0]LogFileHelpers: Loading map 'EscapeHouse' took 1.946
+[2021.03.23-08.58.20:043][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.632
+[2021.03.23-08.58.20:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-08.58.20:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-08.58.20:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-08.58.20:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-08.58.20:275][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3601 classes and 859 folders.
+[2021.03.23-08.58.20:281][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.23-08.58.20:301][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.23-08.58.20:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.23-08.58.20:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.23-08.58.20:311][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.23-08.58.20:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.23-08.58.20:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.23-08.58.20:318][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.23-08.58.20:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.23-08.58.20:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.23-08.58.20:324][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.23-08.58.20:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.23-08.58.20:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.23-08.58.20:331][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.23-08.58.20:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.23-08.58.20:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.23-08.58.20:337][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.23-08.58.20:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.23-08.58.20:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.23-08.58.20:344][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.23-08.58.20:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.23-08.58.20:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.23-08.58.20:352][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.23-08.58.20:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.23-08.58.20:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.23-08.58.20:361][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.23-08.58.20:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.23-08.58.20:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.23-08.58.20:369][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.23-08.58.20:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.23-08.58.20:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.23-08.58.20:375][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.23-08.58.20:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.23-08.58.20:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.23-08.58.20:382][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.23-08.58.20:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.23-08.58.20:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.03.23-08.58.20:389][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.23-08.58.20:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.23-08.58.20:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.03.23-08.58.20:396][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.23-08.58.20:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.23-08.58.20:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.23-08.58.20:401][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.23-08.58.20:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.23-08.58.20:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.23-08.58.20:407][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.23-08.58.20:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.23-08.58.20:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.03.23-08.58.20:415][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.23-08.58.20:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.23-08.58.20:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.03.23-08.58.20:421][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.23-08.58.20:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.23-08.58.20:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.03.23-08.58.20:429][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.23-08.58.20:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.23-08.58.20:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.03.23-08.58.20:440][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.23-08.58.20:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.23-08.58.20:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.03.23-08.58.20:448][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.23-08.58.20:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.23-08.58.20:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.03.23-08.58.20:455][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.23-08.58.20:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.23-08.58.20:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.03.23-08.58.20:463][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.23-08.58.20:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.23-08.58.20:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.03.23-08.58.20:470][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.23-08.58.20:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.23-08.58.20:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.03.23-08.58.20:477][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.23-08.58.20:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.23-08.58.20:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.03.23-08.58.20:486][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.23-08.58.20:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.23-08.58.20:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.23-08.58.20:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.03.23-08.58.20:769][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.23-08.58.20:774][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.23-08.58.20:961][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.23-08.58.20:963][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.23-08.58.20:976][  0]LogSlate: Took 0.006262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.23-08.58.21:185][  0]LogRenderer: Reallocating scene render targets to support 1296x588 Format 10 NumSamples 1 (Frame:1).
+[2021.03.23-08.58.21:438][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.23-08.58.21:438][  0]LogLoad: (Engine Initialization) Total time: 9.03 seconds
+[2021.03.23-08.58.21:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.23-08.58.21:438][  0]LogInit: First time updating LLM stats...
+[2021.03.23-08.58.21:478][  0]LogAssetRegistry: Asset discovery search completed in 5.9707 seconds
+[2021.03.23-08.58.21:480][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.23-08.58.21:517][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.23-08.58.21:570][  0]LogSlate: Took 0.007444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.23-08.58.26:586][585]LogSlate: Window 'Message Log' being destroyed
+[2021.03.23-08.58.26:589][585]LogSlate: Window 'Message Log' being destroyed
+[2021.03.23-08.58.56:151][ 82]LogSlate: Took 0.006119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.23-08.58.56:162][ 82]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animations/FPSCharacter_AnimBP.FPSCharacter_AnimBP
+[2021.03.23-08.58.56:191][ 82]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.03.23-08.58.56:391][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-08.58.56:398][ 82]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.03.23-08.58.56:977][ 82]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.03.23-08.58.58:078][ 82]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.23-09.03.21:477][987]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animations/Walk/FPS_Character_Idle.FPS_Character_Idle
+[2021.03.23-09.03.21:498][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.03.21:951][987]LogSlate: Took 0.014383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.23-09.03.22:085][987]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.03.25:515][333]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.03.25:515][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.03.25:538][333]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.03.25:538][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.03.25:599][333]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.03.25:599][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.03.32:294][ 47]LogSlate: Took 0.006866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.23-09.04.03:884][699]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.04.03:955][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.03.23-09.04.13:987][854]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.04.14:036][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.03.23-09.04.25:440][157]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.04.25:487][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.03.23-09.04.33:016][ 10]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPSCharacter_AnimBPAA0DA057415BB301E901CAABDAFD602D.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/FPSCharacter_AnimBP.uasset'
+[2021.03.23-09.04.33:027][ 10]AssetCheck: New page: Asset Save: FPSCharacter_AnimBP
+[2021.03.23-09.04.33:027][ 10]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Animations/FPSCharacter_AnimBP.FPSCharacter_AnimBP
+[2021.03.23-09.04.33:695][ 83]LogSlate: Window 'FPSCharacter_AnimBP' being destroyed
+[2021.03.23-09.04.33:713][ 83]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.04.33:713][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.04.33:725][ 83]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.04.33:725][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.04.33:796][ 83]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.04.33:796][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.04.38:860][598]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.04.38:863][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.04.39:185][598]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.05.01:673][134]LogSlate: Window 'Crouch_Walk_BS' being destroyed
+[2021.03.23-09.05.01:677][134]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.05.01:677][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.05.01:741][134]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.05.01:741][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.05.02:997][266]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/Animations/Crouch/Crouch_BS.Crouch_BS
+[2021.03.23-09.05.03:000][266]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.05.03:314][266]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.05.12:506][346]LogSlate: Window 'Crouch_BS' being destroyed
+[2021.03.23-09.05.12:509][346]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.05.12:509][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.05.12:575][346]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.05.12:575][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.05.27:546][977]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animations/FPSCharacter_AnimBP.FPSCharacter_AnimBP
+[2021.03.23-09.05.27:550][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.05.33:648][586]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.05.52:845][494]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.05.52:848][494]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.05.53:161][494]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.06.41:885][758]LogRenderer: Reallocating scene render targets to support 1296x900 Format 10 NumSamples 1 (Frame:5320).
+[2021.03.23-09.06.50:105][558]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.06.50:105][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.06.52:194][754]LogContentBrowser: Attempting asset rename: Crouch_Walk_BS -> Crouch_Walk_BS
+[2021.03.23-09.07.49:363][918]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BSF361A7684A754CD0294CFFBC70FFB8DF.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.07.49:377][918]AssetCheck: New page: Asset Save: Crouch_Walk_BS
+[2021.03.23-09.07.49:377][918]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.09.55:495][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprints/FPSCharacter_BP.FPSCharacter_BP
+[2021.03.23-09.10.27:098][604]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BSE0226FB243BD93A235952890E8B159D1.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.10.27:107][604]AssetCheck: New page: Asset Save: Crouch_Walk_BS
+[2021.03.23-09.10.27:107][604]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.10.39:773][746]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.10.39:861][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.23-09.10.44:113][133]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.10.44:179][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.03.23-09.10.58:082][439]BlueprintLog: New page: Compile FPSCharacter_AnimBP
+[2021.03.23-09.10.58:127][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.03.23-09.11.06:487][229]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPSCharacter_AnimBP369CA0FB4C2EEE85EADB88B8EDB39A5F.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/FPSCharacter_AnimBP.uasset'
+[2021.03.23-09.11.06:495][229]AssetCheck: New page: Asset Save: FPSCharacter_AnimBP
+[2021.03.23-09.11.06:495][229]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Animations/FPSCharacter_AnimBP.FPSCharacter_AnimBP
+[2021.03.23-09.11.09:182][492]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.23-09.11.09:193][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.23-09.11.09:196][492]PIE: New page: PIE session: EscapeHouse (23 mars 2021 à 11:11:09)
+[2021.03.23-09.11.09:197][492]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.23-09.11.09:198][492]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.23-09.11.09:198][492]LogPlayLevel: Creating play world package: /Game/Map/Maps/UEDPIE_0_EscapeHouse
+[2021.03.23-09.11.09:246][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047402s)
+[2021.03.23-09.11.09:247][492]LogAIModule: Creating AISystem for world EscapeHouse
+[2021.03.23-09.11.09:247][492]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.03.23-09.11.09:247][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Maps/EscapeHouse.EscapeHouse to /Game/Map/Maps/UEDPIE_0_EscapeHouse.EscapeHouse (0.048425s)
+[2021.03.23-09.11.09:268][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.03.23-09.11.09:270][492]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.23-09.11.09:270][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.23-09.11.09:270][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.23-09.11.09:271][492]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.23-09.11.09:271][492]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.23-09.11.09:294][492]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.23-09.11.09:294][492]LogAudioMixer: Display: 1: FrontRight
+[2021.03.23-09.11.09:305][492]LogAudioMixer: Display: Using Audio Device VX2458 Series (NVIDIA High Definition Audio)
+[2021.03.23-09.11.09:306][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.23-09.11.09:306][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.23-09.11.09:306][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.23-09.11.09:306][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.23-09.11.09:306][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.23-09.11.09:306][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.23-09.11.09:316][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.23-09.11.09:316][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.23-09.11.09:316][492]LogInit: FAudioDevice initialized.
+[2021.03.23-09.11.09:316][492]LogAudio: Display: Audio Device (ID: 2) registered with world 'EscapeHouse'.
+[2021.03.23-09.11.09:326][492]LogLoad: Game class is 'FPS_Character_GameMode_C'
+[2021.03.23-09.11.09:328][492]LogWorld: Bringing World /Game/Map/Maps/UEDPIE_0_EscapeHouse.EscapeHouse up for play (max tick rate 0) at 2021.03.23-10.11.09
+[2021.03.23-09.11.09:332][492]LogWorld: Bringing up level for play took: 0.005496
+[2021.03.23-09.11.09:333][492]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.23-09.11.09:365][492]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.23-09.11.09:377][492]PIE: Server logged in
+[2021.03.23-09.11.09:378][492]PIE: Play in editor total start time 0,185 seconds.
+[2021.03.23-09.11.18:409][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PickUpActors' of length 0 in '/Game/Character/Blueprints/FPSCharacter_BP.FPSCharacter_BP_C'!
+[2021.03.23-09.11.19:908][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PickUpActors' of length 0 in '/Game/Character/Blueprints/FPSCharacter_BP.FPSCharacter_BP_C'!
+[2021.03.23-09.11.21:107][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-09.11.21:107][858]LogWorld: BeginTearingDown for /Game/Map/Maps/UEDPIE_0_EscapeHouse
+[2021.03.23-09.11.21:107][858]LogWorld: UWorld::CleanupWorld for EscapeHouse, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.11.21:108][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.11.21:117][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.23-09.11.21:121][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.11.21:142][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.23-09.11.21:142][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.23-09.11.21:143][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.23-09.11.21:154][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.23-09.11.21:175][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.03.23-09.11.21:196][859]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.23-09.13.17:579][679]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.13.33:163][845]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.13.33:163][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.15.43:210][494]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.23-09.15.43:222][494]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.23-09.15.49:074][196]LogContentBrowser: Attempting asset rename: NewFolder -> ImportedAnimations
+[2021.03.23-09.15.49:075][196]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.23-09.15.53:033][534]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mateo\Downloads\Crouch Walk Left.fbx)
+[2021.03.23-09.15.53:063][534]LogFbx: Loading FBX Scene from C:\Users\mateo\Downloads\Crouch Walk Left.fbx
+[2021.03.23-09.15.53:083][534]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.23-09.15.58:204][534]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(0) Hips
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(1) Spine
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(2) Spine1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(3) Spine2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(4) Neck
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(5) Head
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(7) LeftEye
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(8) RightEye
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(10) LeftArm
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(12) LeftHand
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(33) RightShoulder
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(34) RightArm
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(35) RightForeArm
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(36) RightHand
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2021.03.23-09.15.58:224][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(58) LeftLeg
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(59) LeftFoot
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(63) RightLeg
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(64) RightFoot
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(65) RightToeBase
+[2021.03.23-09.15.58:225][534]LogFbx: SortedLinks :(66) RightToe_End
+[2021.03.23-09.15.58:225][534]LogFbx: Parsing AnimStack mixamo.com
+[2021.03.23-09.15.58:378][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.15.58:378][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.15.58:378][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mateo\Downloads\Crouch Walk Back.fbx)
+[2021.03.23-09.15.58:400][534]LogFbx: Loading FBX Scene from C:\Users\mateo\Downloads\Crouch Walk Back.fbx
+[2021.03.23-09.15.58:420][534]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(0) Hips
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(1) Spine
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(2) Spine1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(3) Spine2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(4) Neck
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(5) Head
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(7) LeftEye
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(8) RightEye
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(10) LeftArm
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(12) LeftHand
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(33) RightShoulder
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(34) RightArm
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(35) RightForeArm
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(36) RightHand
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(58) LeftLeg
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(59) LeftFoot
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2021.03.23-09.15.58:422][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2021.03.23-09.15.58:423][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2021.03.23-09.15.58:423][534]LogFbx: SortedLinks :(63) RightLeg
+[2021.03.23-09.15.58:423][534]LogFbx: SortedLinks :(64) RightFoot
+[2021.03.23-09.15.58:423][534]LogFbx: SortedLinks :(65) RightToeBase
+[2021.03.23-09.15.58:423][534]LogFbx: SortedLinks :(66) RightToe_End
+[2021.03.23-09.15.58:423][534]LogFbx: Parsing AnimStack mixamo.com
+[2021.03.23-09.15.58:569][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mateo\Downloads\Crouch Walk Right.fbx)
+[2021.03.23-09.15.58:577][534]LogFbx: Loading FBX Scene from C:\Users\mateo\Downloads\Crouch Walk Right.fbx
+[2021.03.23-09.15.58:593][534]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(0) Hips
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(1) Spine
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(2) Spine1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(3) Spine2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(4) Neck
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(5) Head
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(7) LeftEye
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(8) RightEye
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(10) LeftArm
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(12) LeftHand
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(33) RightShoulder
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(34) RightArm
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(35) RightForeArm
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(36) RightHand
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(58) LeftLeg
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(59) LeftFoot
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(63) RightLeg
+[2021.03.23-09.15.58:595][534]LogFbx: SortedLinks :(64) RightFoot
+[2021.03.23-09.15.58:596][534]LogFbx: SortedLinks :(65) RightToeBase
+[2021.03.23-09.15.58:596][534]LogFbx: SortedLinks :(66) RightToe_End
+[2021.03.23-09.15.58:596][534]LogFbx: Parsing AnimStack mixamo.com
+[2021.03.23-09.15.58:708][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mateo\Downloads\Crouch Walk Forward.fbx)
+[2021.03.23-09.15.58:716][534]LogFbx: Loading FBX Scene from C:\Users\mateo\Downloads\Crouch Walk Forward.fbx
+[2021.03.23-09.15.58:732][534]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(0) Hips
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(1) Spine
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(2) Spine1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(3) Spine2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(4) Neck
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(5) Head
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(7) LeftEye
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(8) RightEye
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(10) LeftArm
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(12) LeftHand
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(33) RightShoulder
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(34) RightArm
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(35) RightForeArm
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(36) RightHand
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2021.03.23-09.15.58:734][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(58) LeftLeg
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(59) LeftFoot
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(63) RightLeg
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(64) RightFoot
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(65) RightToeBase
+[2021.03.23-09.15.58:735][534]LogFbx: SortedLinks :(66) RightToe_End
+[2021.03.23-09.15.58:735][534]LogFbx: Parsing AnimStack mixamo.com
+[2021.03.23-09.15.58:895][535]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.15.58:895][535]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.15.59:028][536]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.02:847][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.03.23-09.16.04:016][877]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.16.04:053][877]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Back43DA88B246B1952B17905DAC018BE42C.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Back.uasset'
+[2021.03.23-09.16.04:076][877]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_ForwardC154890D4FE8CBE3DF9232A391362B48.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Forward.uasset'
+[2021.03.23-09.16.04:093][877]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Left636DDC0D4807FD6F9638D7B4E332526B.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Left.uasset'
+[2021.03.23-09.16.04:109][877]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_RightDDB78A88438A9570AC9232BB00E3CEFF.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Right.uasset'
+[2021.03.23-09.16.04:123][877]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.16.04:123][877]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.16.04:123][877]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.16.04:123][877]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.04:123][877]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.16.16:331][  7]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.23-09.16.19:267][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.19:267][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.19:273][322]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.23-09.16.19:275][322]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.19:276][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.19:289][322]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.19:289][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.19:331][323]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.20:556][434]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.20:677][434]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.20:677][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.27:773][107]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.27:773][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.27:793][107]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.27:793][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.27:863][107]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.27:863][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.37:764][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.23-09.16.39:243][221]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.16.39:266][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Back" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset" SILENT=true
+[2021.03.23-09.16.39:276][221]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Back01115775482F38BCA4F874A617796CA7.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset'
+[2021.03.23-09.16.39:283][221]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_SkeletonB9C005584BAA9BC5A9A2A69FB87407C9.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Skeletons/FPS_Character_Skeleton.uasset'
+[2021.03.23-09.16.39:292][221]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/MixamoSkeleton423F7F6A44B32B973EF7E895DEAA5062.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/MixamoSkeleton.uasset'
+[2021.03.23-09.16.39:302][221]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.16.39:302][221]LogContentValidation: Display: Validating Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.16.39:302][221]LogContentValidation: Display: Validating Skeleton /Game/Character/Animations/Mixamo/MixamoSkeleton.MixamoSkeleton
+[2021.03.23-09.16.39:302][221]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.40:215][329]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.16.40:217][329]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.16.40:545][329]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.16.46:373][861]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.46:373][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.46:392][861]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.46:392][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.16.46:450][861]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.16.46:450][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.17.01:078][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.23-09.17.10:902][447]LogSlate: Window 'Create New Animation Object' being destroyed
+[2021.03.23-09.17.17:189][176]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.17.17:191][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.18.05:296][676]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_Skeleton7DE775334E825E6377D61C9B3541CC36.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Skeletons/FPS_Character_Skeleton.uasset'
+[2021.03.23-09.18.05:305][676]AssetCheck: New page: Asset Save: FPS_Character_Skeleton
+[2021.03.23-09.18.05:305][676]LogContentValidation: Display: Validating Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.18.21:999][241]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_Skeleton491603B44CD672A1C8FB279B1AC3C763.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Skeletons/FPS_Character_Skeleton.uasset'
+[2021.03.23-09.18.22:011][241]AssetCheck: New page: Asset Save: FPS_Character_Skeleton
+[2021.03.23-09.18.22:011][241]LogContentValidation: Display: Validating Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.18.32:558][373]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.23-09.18.32:595][373]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.32:595][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.32:602][373]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.32:602][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.32:673][373]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.23-09.18.35:964][735]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back1.Crouch_Walk_Back1
+[2021.03.23-09.18.35:964][735]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back1.Crouch_Walk_Back1
+[2021.03.23-09.18.35:970][735]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.23-09.18.35:972][735]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.35:972][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.35:984][735]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.35:984][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.36:021][736]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Back1.Crouch_Walk_Back1
+[2021.03.23-09.18.37:883][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.23-09.18.38:766][904]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.18.38:837][904]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.18.39:403][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.23-09.18.39:425][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.23-09.18.39:445][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.23-09.18.40:088][978]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Back1.Crouch_Walk_Back1
+[2021.03.23-09.18.40:095][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.18.40:452][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.18.42:585][159]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.42:585][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.42:604][159]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.42:604][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.42:664][159]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.18.42:664][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.18.44:901][375]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_SkeletonE05C28CA41C928D0F56BB483DDCA9CEA.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Skeletons/FPS_Character_Skeleton.uasset'
+[2021.03.23-09.18.44:911][375]AssetCheck: New page: Asset Save: FPS_Character_Skeleton
+[2021.03.23-09.18.44:911][375]LogContentValidation: Display: Validating Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.18.55:238][586]LogContentBrowser: Attempting asset rename: Crouch_Walk_Back1 -> Crouch_Walkck1
+[2021.03.23-09.18.55:275][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walkck1" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walkck1.uasset" SILENT=true
+[2021.03.23-09.18.55:283][586]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walkck1F91DDFC642BA66E07A510588570D3148.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walkck1.uasset'
+[2021.03.23-09.18.55:346][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.23-09.18.55:373][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.03.23-09.18.55:393][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.18.55:459][586]AssetCheck: New page: Asset Save: Crouch_Walkck1
+[2021.03.23-09.18.55:459][586]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walkck1.Crouch_Walkck1
+[2021.03.23-09.19.10:284][352]LogContentBrowser: Attempting asset rename: Crouch_Walkck1 -> Crouch_Walk_Back
+[2021.03.23-09.19.10:320][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Back" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset" SILENT=true
+[2021.03.23-09.19.10:329][352]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Back20CA516B40F5E6DFD5F798B97D20C95F.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset'
+[2021.03.23-09.19.10:383][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.23-09.19.10:412][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.03.23-09.19.10:431][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.19.10:496][352]AssetCheck: New page: Asset Save: Crouch_Walk_Back
+[2021.03.23-09.19.10:496][352]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.19.11:006][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Back" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset" SILENT=true
+[2021.03.23-09.19.11:012][411]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BackC443F86B45B9F53E8FAB8A90233DC20D.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Back.uasset'
+[2021.03.23-09.19.11:020][411]AssetCheck: New page: Asset Save: Crouch_Walk_Back
+[2021.03.23-09.19.11:020][411]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.19.31:876][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.23-09.19.34:077][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.19.34:077][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.19.34:078][ 33]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.23-09.19.34:081][ 33]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.19.34:081][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.19.34:092][ 33]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.19.34:092][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.19.34:125][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.19.34:125][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.19.34:208][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.19.40:509][686]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.19.40:513][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.23-09.19.40:935][686]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.23-09.19.42:446][805]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.19.42:446][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.19.42:469][805]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.19.42:469][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.19.42:528][805]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.19.42:528][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.19.47:210][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.23-09.19.48:107][258]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.19.48:133][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Forward" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Forward.uasset" SILENT=true
+[2021.03.23-09.19.48:141][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Forward8C8CC3764E1933D3B3E1F4BB3EDE5C5A.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Forward.uasset'
+[2021.03.23-09.19.48:150][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Left" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Left.uasset" SILENT=true
+[2021.03.23-09.19.48:159][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_LeftFEAF26804FF4190C9AFED094E6E699AD.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Left.uasset'
+[2021.03.23-09.19.48:167][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Right" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Right.uasset" SILENT=true
+[2021.03.23-09.19.48:175][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Right6AF561794213CF23C8F20CB1BF7441AB.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Crouch_Walk_Right.uasset'
+[2021.03.23-09.19.48:184][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Meshes/FPS_Character_Mesh" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Meshes/FPS_Character_Mesh.uasset" SILENT=true
+[2021.03.23-09.19.48:230][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_MeshEFF8E72C4667F257FE754CBCE119BB52.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Meshes/FPS_Character_Mesh.uasset'
+[2021.03.23-09.19.48:237][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/FPS_Character_Skeleton602666EE41C0F3450564B588BA56A3F4.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Skeletons/FPS_Character_Skeleton.uasset'
+[2021.03.23-09.19.48:245][258]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/MixamoSkeleton8AC646A441619B059ABE33A45BE37C2B.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Mixamo/MixamoSkeleton.uasset'
+[2021.03.23-09.19.48:259][258]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating Skeleton /Game/Character/Skeletons/FPS_Character_Skeleton.FPS_Character_Skeleton
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Meshes/FPS_Character_Mesh.FPS_Character_Mesh
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating Skeleton /Game/Character/Animations/Mixamo/MixamoSkeleton.MixamoSkeleton
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.19.48:259][258]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.20.03:453][874]LogSlate: Window 'Failed Renames' being destroyed
+[2021.03.23-09.20.11:193][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.23-09.20.11:297][684]LogSlate: Took 0.004776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.23-09.20.37:570][684]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.20.42:801][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.03.23-09.20.44:162][225]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.20.44:236][225]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Right.Crouch_Walk_Right
+	Asset Name: /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Left.Crouch_Walk_Left
+	Asset Name: /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Forward.Crouch_Walk_Forward
+	Asset Name: /Game/Character/Animations/Mixamo/ImportedAnimations/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.20.44:519][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.03.23-09.20.44:539][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.03.23-09.20.44:559][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.20.44:579][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.03.23-09.20.44:599][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.03.23-09.20.44:620][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.21.09:135][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Crouch_Walk_Right" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Right.uasset" SILENT=true
+[2021.03.23-09.21.09:144][753]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_RightBAAED1E9407E8650DE92FFBE67152622.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Right.uasset'
+[2021.03.23-09.21.09:152][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Crouch_Walk_Left" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Left.uasset" SILENT=true
+[2021.03.23-09.21.09:160][753]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Left4F779193414DD40315EE679F3D254ECC.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Left.uasset'
+[2021.03.23-09.21.09:177][753]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Forward95430CD1498B8B7424307B81A0A7FC9C.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Forward.uasset'
+[2021.03.23-09.21.09:185][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Crouch_Walk_Back" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Back.uasset" SILENT=true
+[2021.03.23-09.21.09:193][753]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BackED00DF2D46B1C656E7E755A03C85AAE6.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch_Walk_Back.uasset'
+[2021.03.23-09.21.09:282][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.03.23-09.21.09:306][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.21.09:326][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.03.23-09.21.09:346][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.23-09.21.09:370][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.03.23-09.21.09:390][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.23-09.21.09:471][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.21.09:471][753]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.21.09:471][753]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.21.09:471][753]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.21.09:471][753]LogContentValidation: Display: Validating AnimSequence /Game/Character/Animations/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.21.18:515][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.03.23-09.21.31:589][587]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.21.43:254][841]LogSlate: Window 'Failed Renames' being destroyed
+[2021.03.23-09.21.45:866][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.03.23-09.21.45:919][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-09.21.45:919][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-09.21.45:920][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/M_Male_Body': Can't find file.
+[2021.03.23-09.21.45:920][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-09.21.45:920][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-09.21.45:920][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-09.21.45:920][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-09.21.45:921][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-09.21.45:921][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-09.21.45:921][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-09.21.45:921][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-09.21.45:921][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-09.21.45:922][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-09.21.45:922][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-09.21.45:922][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-09.21.45:922][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-09.21.45:923][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-09.21.45:923][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-09.21.45:923][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-09.21.45:923][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+[2021.03.23-09.21.45:923][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2021.03.23-09.21.45:924][110]LogLinker: Warning: [AssetLog] C:\Users\mateo\OneDrive\Documents\GitHub\EscapeHouse\Content\Content\Materials\PlayerMaterials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/BaseFiles/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2021.03.23-09.21.55:100][173]LogSlate: Window 'Advanced Copy Asset Report' being destroyed
+[2021.03.23-09.22.06:290][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.23-09.22.22:426][276]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.23-09.22.22:428][276]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Crouch_Walk_Back; and then delete them.
+
+Are you sure?
+[2021.03.23-09.22.22:428][276]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.22.22:495][276]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.22.22:495][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.22.22:522][276]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.22.22:522][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.22.22:533][276]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.22.22:533][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.22.22:619][276]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.22.22:619][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.22.22:631][276]LogSlate: Window 'FPSCharacter_BP' being destroyed
+[2021.03.23-09.22.22:660][276]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.03.23-09.22.22:660][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.23-09.22.22:939][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.03.23-09.22.26:315][276]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.22.26:335][276]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Back6FE804A14A08FE0E8CD04E879FEA6341.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_Back.uasset'
+[2021.03.23-09.22.26:403][276]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BS4E82F2434D2259274F2A5082C96757DE.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.22.26:416][276]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.22.26:416][276]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.22.26:416][276]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Crouch/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.03.23-09.22.28:863][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.03.23-09.22.45:481][502]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.23-09.22.45:483][502]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Crouch_Walk_Forward; and then delete them.
+
+Are you sure?
+[2021.03.23-09.22.45:483][502]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.22.45:648][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.23-09.22.46:376][502]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.22.46:415][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Crouch/Crouch_BS" FILE="C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_BS.uasset" SILENT=true
+[2021.03.23-09.22.46:423][502]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_BSF2AAF2C049181DB1E83AB7AA5C37FC43.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_BS.uasset'
+[2021.03.23-09.22.46:447][502]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BS719CE15340745BAF76A05A8BE4265BA7.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.22.46:456][502]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_ForwardAE820A2B46D9A1AA31529C9022B189BE.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_Forward.uasset'
+[2021.03.23-09.22.46:472][502]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.22.46:472][502]LogContentValidation: Display: Validating BlendSpace1D /Game/Character/Animations/Crouch/Crouch_BS.Crouch_BS
+[2021.03.23-09.22.46:472][502]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.22.46:472][502]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Crouch/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.03.23-09.22.47:888][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.03.23-09.22.56:757][638]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.23-09.22.56:759][638]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Crouch_Walk_Left; and then delete them.
+
+Are you sure?
+[2021.03.23-09.22.56:759][638]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.22.56:937][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.23-09.22.57:950][638]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.22.58:025][638]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BSA1FF5516471154E72DE074B1A5D73EE8.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.22.58:033][638]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Left32CA3C7C41B690C8480372B163A9B992.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_Left.uasset'
+[2021.03.23-09.22.58:060][638]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.22.58:060][638]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.22.58:060][638]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.03.23-09.22.59:744][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.23-09.23.10:989][826]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.23-09.23.10:991][826]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Crouch_Walk_Right; and then delete them.
+
+Are you sure?
+[2021.03.23-09.23.10:991][826]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.23-09.23.11:160][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.23-09.23.11:920][826]LogSlate: Window 'Save Content' being destroyed
+[2021.03.23-09.23.11:975][826]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_BS5E45FD124507F4007DCC11A73693B369.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_BS.uasset'
+[2021.03.23-09.23.11:987][826]LogSavePackage: Moving 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Saved/Crouch_Walk_Right1EF38AE143AE9C22E9E29D8E286CB112.tmp' to 'C:/Users/mateo/OneDrive/Documents/GitHub/EscapeHouse/Content/Character/Animations/Crouch/Crouch_Walk_Right.uasset'
+[2021.03.23-09.23.11:994][826]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.23-09.23.11:994][826]LogContentValidation: Display: Validating BlendSpace /Game/Character/Animations/Crouch/Crouch_Walk_BS.Crouch_Walk_BS
+[2021.03.23-09.23.11:994][826]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.03.23-09.23.17:546][384]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.23-09.23.18:771][384]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.225 s
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: 
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: Cannot remove redirection from /Game/Character/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right, it was not registered
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: Stack: 
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde4d36988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde4908ae1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddc674b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdde62d3c7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdde65d6dd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd2abe6bf UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd2a5ffca UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd2ad8c92 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd2aa4b92 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdbe1e5e38 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdbe1e62c5 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdbe1a7d60 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd321a52f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd325550b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffdd32b1ccd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfc7ee75 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfc85660 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfc5b867 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfcf85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfd1077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfc86dd5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfb546be UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfbd7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfbc0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffddfbb3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde00abca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde0099197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde00ae379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde0094310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffe2ec9e858 USER32.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffe2ec9e299 USER32.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffde00af904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ff75bf28857 UE4Editor.exe!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ff75bf411ac UE4Editor.exe!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ff75bf4128a UE4Editor.exe!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ff75bf552ed UE4Editor.exe!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ff75bf5801a UE4Editor.exe!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffe2e3d7034 KERNEL32.DLL!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: [Callstack] 0x00007ffe2f0a2651 ntdll.dll!UnknownFunction []
+[2021.03.23-09.23.18:771][384]LogOutputDevice: Error: 
