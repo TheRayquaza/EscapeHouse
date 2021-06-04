@@ -1,4 +1,4 @@
-# _EscapeHouse_ (We have to find a real name to this game ...)
+# _EscapeHouse_ (We have to find a real name)
 
 ## Informations ℹ️
 - Actual Version : **THE GAME IS NOT AVAILABLE NOW => UNREAL PROJECT** 🎮
